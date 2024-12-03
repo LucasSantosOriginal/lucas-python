@@ -1,2 +1,13 @@
-## All the executables (.exe) are in the 'dist' folder of each project
-## todos os executaveis (.exe) estão na pasta "dist"
+
+________   _______ _   _ _____ _   _  ____________ _____   ___ _____ _____ _____ _____ 
+| ___ \ \ / |_   _| | | |  _  | \ | | | ___ | ___ |  _  | |_  |  ___/  __ |_   _/  ___|
+| |_/ /\ V /  | | | |_| | | | |  \| | | |_/ | |_/ | | | |   | | |__ | /  \/ | | \ `--. 
+|  __/  \ /   | | |  _  | | | | . ` | |  __/|    /| | | |   | |  __|| |     | |  `--. \
+| |     | |   | | | | | \ \_/ | |\  | | |   | |\ \\ \_/ /\__/ | |___| \__/\ | | /\__/ /
+\_|     \_/   \_/ \_| |_/\___/\_| \_/ \_|   \_| \_|\___/\____/\____/ \____/ \_/ \____/ 
+                                                                                       
+                                                                                       
+
+
+All the executables (.exe) are in the 'dist' folder of each project
+Todos os executaveis (.exe) estão na pasta "dist"
