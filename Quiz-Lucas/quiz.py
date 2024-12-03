@@ -1,7 +1,19 @@
 
 from time import sleep
+banner = """
 
-print ("Welcome to Lucas Quiz!")
+ _     _   _ _____  ___  _____   _____ _   _ _____ ______
+| |   | | | /  __ \/ _ \/  ___| |  _  | | | |_   _|___  /
+| |   | | | | /  \/ /_\ \ `--.  | | | | | | | | |    / / 
+| |   | | | | |   |  _  |`--. \ | | | | | | | | |   / /  
+| |___| |_| | \__/| | | /\__/ / \ \/' | |_| |_| |_./ /___
+\_____/\___/ \____\_| |_\____/   \_/\_\\___/ \___/\_____/
+                                                         
+                                                         
+                                                                                                                                                                                                                                                                                                                                                               
+    """
+# print ("Welcome to Lucas Quiz!")
+print (banner)
 # answer_user é variavel para armazenar a resposta o retorno do input
 answer_user = input ("Are You Ready? (Y/N) ")
 
@@ -38,3 +50,4 @@ print (f"Game Over... Points: {score}/2")
 sleep(1)
 input("Press Enter to exit...")
 
+# toda vez que atualizar o codigo py precisa ' pyinstaller --onefile quiz.py'
